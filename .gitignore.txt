@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook geçici dosyaları
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Sanal Ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+.env
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
+
+# Proje çıktıları (Repoyu temiz tutmak için)
+*.png
+*.pdf
+IK_Karar_Destek_Raporu.pdf
+
+# Veri setleri (Gizlilik veya boyut kısıtlamaları için isteğe bağlı)
+# *.csv
+# *.xlsx
