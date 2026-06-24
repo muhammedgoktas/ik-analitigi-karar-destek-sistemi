@@ -29,7 +29,7 @@ Projeyi kendi ortamınızda test etmek için aşağıdaki adımları izleyebilir
 1. **Repoyu klonlayın:**
    ```bash
    git clone https://github.com/muhammedgoktas/ik-analitigi-karar-destek-sistemi.git
-   cd ik-analitigi-projesi
+   cd ik-analitigi-karar-destek-sistemi
    ```
 
 2. **Gerekli kütüphaneleri yükleyin:**
